@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "type": "module",
+    "main": "index.js"
+  }
+  
+}
